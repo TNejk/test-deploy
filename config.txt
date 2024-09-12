@@ -1,0 +1,1 @@
+Default|ADMIN|S0s-it-0racle|(description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.eu-frankfurt-1.oraclecloud.com))(connect_data=(service_name=g174432cd8ec6d2_basedatabase_low.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
