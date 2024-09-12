@@ -1,4 +1,4 @@
-from . import testapp
+import testapp
 
 if __name__ == '__main__':
-  app = testapp.run()
+  testapp.run()
